@@ -2,7 +2,7 @@ Package: praise
 Title: Deliver Praise to Someone
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+    person("Rajlaxmi", "Patil", , "rajlaxmi.patil@students.mq.edu.au", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: We all deserve a little encouragement sometime
     to keep us going (Plus Ultra!). This package aim to deliver
