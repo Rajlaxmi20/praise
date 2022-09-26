@@ -10,12 +10,10 @@ The goal of praise is to …
 
 ## Installation
 
-You can install the development version of praise from
-[GitHub](https://github.com/) with:
+You can install the development version of praise like so:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("Rajlaxmi20/praise")
+# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
 ```
 
 ## Example
