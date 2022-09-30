@@ -8,8 +8,6 @@
 
 The goal of praise is to …
 
-yes
-
 ``` r
 summary(cars)
 #>      speed           dist       
