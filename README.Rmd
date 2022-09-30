@@ -22,7 +22,7 @@ The goal of praise is to ...
 
 
 
-
+yes
 
 ```{r cars}
 summary(cars)
