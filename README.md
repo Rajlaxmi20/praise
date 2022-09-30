@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of praise is to someone
+The goal of praise is to …
 
 ## Installation
 
